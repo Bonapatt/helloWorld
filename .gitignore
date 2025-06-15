@@ -1,0 +1,5 @@
+node_modules
+.next
+.DS_Store
+/tmp
+next-env.d.ts
