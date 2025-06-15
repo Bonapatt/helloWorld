@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <main className="max-w-3xl mx-auto px-6 py-12 font-sans space-y-12">
-      <header className="text-center space-y-2">
+      <header className="text-center space-y-2 bg-blue-500 text-white p-4 rounded">
         <h1 className="text-4xl font-bold">Nannapat Mongkollertsirisuk</h1>
         <p className="text-lg">Bonus</p>
         <p>Thungkru, Bangkok</p>
